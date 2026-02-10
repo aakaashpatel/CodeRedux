@@ -74,4 +74,7 @@ export default defineConfig([
 
 
 <!-- vite ignore start -->
-<!-- video https://www.youtube.com/watch?v=FBgW19Gofnk -->
+<!-- video https://www.youtube.com/watch?v=FBgW19Gofnk --> 
+<!-- code soni  -->
+<!-- video https://www.youtube.com/watch?v=Q5TqsetwCoE&t=2640s -->
+<!-- sheryians -->
