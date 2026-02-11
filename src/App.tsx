@@ -18,7 +18,7 @@ const App = () => {
         <button className="btn" onClick={()=> {
           dispatch(addingfive())
         }}>Add the value 5</button>
-        <button className="btn" onClick={()=>{
+        <button className="btn"  onClick={()=>{
           dispatch(reset())
         }}>Reset</button>
       </div>
